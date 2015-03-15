@@ -1,8 +1,1 @@
-<<<<<<< HEAD
-rest
-asdfasdfa
-
-=======
-tew
-wetew
->>>>>>> krunal1
+test
